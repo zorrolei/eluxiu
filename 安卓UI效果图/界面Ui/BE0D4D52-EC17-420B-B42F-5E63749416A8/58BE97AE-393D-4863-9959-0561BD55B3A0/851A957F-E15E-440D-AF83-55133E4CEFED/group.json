@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "851A957F-E15E-440D-AF83-55133E4CEFED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 26,
+    "width": 19,
+    "x": 80,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EE37D94F-3EA3-4ACD-8682-D5A6BFF1B0F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C4B3AF5-8403-4B5F-A4A1-459C8A406296"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEC3FDD7-3DFF-4902-AE3A-181BF7E9CEE3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "497E58DB-89EA-4649-9039-6E89E20B7D06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C759608D-CEEA-4785-8D3F-90BC85262A20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1CB4D17-5E70-4EAB-9A2C-9E0148FE8D3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8DD22BA-1A1E-40F1-A5A0-9C4B600E1A64"
+    }
+  ],
+  "name": "medical_1197899_easyicon.net",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

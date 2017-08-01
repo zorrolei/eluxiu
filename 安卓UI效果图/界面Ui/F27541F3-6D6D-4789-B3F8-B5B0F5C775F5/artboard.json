@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "F27541F3-6D6D-4789-B3F8-B5B0F5C775F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 700,
+    "width": 360,
+    "x": -1070,
+    "y": -227
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D2D87A6E-FC6B-485F-B841-783A5747DAE7"
+    },
+    {
+      "class": "group",
+      "id": "33B934F7-551B-4323-8E21-F68F65BD4BF0"
+    },
+    {
+      "class": "group",
+      "id": "E8DBC6A7-56E5-4C07-9F6A-E6AE2AE342A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1418519B-367C-4FFB-86F0-AC632B5028F1"
+    },
+    {
+      "class": "text",
+      "id": "E9FAA28A-6FF4-4BC1-9114-F9E903033C98"
+    },
+    {
+      "class": "text",
+      "id": "B8BBE5E6-180D-47C7-95FA-1CA93BE5EED1"
+    },
+    {
+      "class": "text",
+      "id": "67D1D92B-394B-4B6A-94CE-454E8F7B1798"
+    },
+    {
+      "class": "group",
+      "id": "91333E08-7DF5-4083-B632-ED8A1D5D63EF"
+    },
+    {
+      "class": "group",
+      "id": "048C6D83-25E4-4FD2-9CCD-4F7A35EDDE35"
+    },
+    {
+      "class": "group",
+      "id": "279F9FFB-1C92-4539-AD98-339C8F4C55E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2971AD39-D6D9-4B71-B857-2ECED86BA925"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BDF0808-B8E5-4BA7-AF24-12AF3F38FB67"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A050C25-2FEA-4D92-A62E-D979745BF7F8"
+    },
+    {
+      "class": "text",
+      "id": "BCF8F7CF-A5AF-4743-A7F1-2CF2905D7722"
+    },
+    {
+      "class": "group",
+      "id": "A37FF891-7F83-4C2C-A711-0E8A1CAB9541"
+    }
+  ],
+  "name": "维修单首页-维修中-退回备件",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "5AE8AA6B-08F4-4318-AA0B-9F9BBF9DC67E"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

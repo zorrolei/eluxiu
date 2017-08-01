@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "50766950-A2DC-4A7C-913D-A3A4EE495740",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 700,
+    "width": 360,
+    "x": -2463,
+    "y": -227
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "95640891-EE15-4994-B732-FA13D0BCF991"
+    },
+    {
+      "class": "group",
+      "id": "7115E5B3-9ADB-4660-BB28-43245238ECD7"
+    },
+    {
+      "class": "group",
+      "id": "E092F608-4A68-40CD-B0F3-2277A2E64B63"
+    },
+    {
+      "class": "group",
+      "id": "1DBCED8C-6DE3-4059-8CC9-CE5C95642F9D"
+    },
+    {
+      "class": "group",
+      "id": "10A17B71-9C3D-4B65-818F-536A06D02A5B"
+    },
+    {
+      "class": "group",
+      "id": "D049E11F-4FAA-4A24-BD0C-DBE911880847"
+    },
+    {
+      "class": "group",
+      "id": "6D36EA61-6BE5-4FBC-8314-A1ECCD798837"
+    },
+    {
+      "class": "group",
+      "id": "49E10507-4DB7-445B-8DBB-4216C32D2980"
+    },
+    {
+      "class": "text",
+      "id": "14A350F8-327F-45F5-9F4C-817946733D02"
+    }
+  ],
+  "name": "维修单首页－维修中-备件管理",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

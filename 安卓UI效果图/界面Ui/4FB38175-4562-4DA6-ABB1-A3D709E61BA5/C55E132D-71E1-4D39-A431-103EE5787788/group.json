@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "C55E132D-71E1-4D39-A431-103EE5787788",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 300,
+    "x": 30,
+    "y": 325
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "851262F5-EE7D-46C1-B0EB-A920B871940B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E785117-83F3-4443-B3C5-6B6746A92346"
+    },
+    {
+      "class": "text",
+      "id": "583ADE0C-7355-4EB9-AC79-BD59E8943392"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "894A0867-1A99-41E3-9DB6-2DCC216442EA"
+    },
+    {
+      "class": "text",
+      "id": "1947619D-76D4-416F-B0F5-1C6C896361DB"
+    },
+    {
+      "class": "text",
+      "id": "55ACEAAC-16EB-436B-94C2-EAC21A3AACC4"
+    }
+  ],
+  "name": "验证码",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
