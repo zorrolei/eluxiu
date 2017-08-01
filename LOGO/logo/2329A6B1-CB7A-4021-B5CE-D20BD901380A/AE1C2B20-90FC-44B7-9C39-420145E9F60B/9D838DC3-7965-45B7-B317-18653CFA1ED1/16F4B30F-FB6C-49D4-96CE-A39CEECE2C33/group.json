@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "16F4B30F-FB6C-49D4-96CE-A39CEECE2C33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 800,
+    "width": 800,
+    "x": 40,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1117C125-1094-4CAF-8FAB-ED8952ED8EA9"
+    },
+    {
+      "class": "group",
+      "id": "2D91FF88-E45F-4E72-BE91-222F60C0F593"
+    },
+    {
+      "class": "group",
+      "id": "6E53325A-0D91-40AE-ACFF-9C74FFEF8C50"
+    },
+    {
+      "class": "group",
+      "id": "2950FF41-1165-4D18-88D4-DC910F35A580"
+    }
+  ],
+  "name": "login-icon-logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 67.22689075630252,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "1A2CCA95-AFD7-480D-9B4B-48528630DF5E"
+    }
+  }
+}

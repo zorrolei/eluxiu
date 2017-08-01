@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "520f48e0-7689-11e7-bd8f-d7000e7db8ff",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "779DEF6B-8795-489D-B524-77FA0D6D2927"
+    },
+    {
+      "class": "artboard",
+      "id": "6887D59F-4CCC-48BD-A214-1CA27B84FC04"
+    },
+    {
+      "class": "artboard",
+      "id": "B7B0A42D-E75D-4070-A935-1EC4B6DEED26"
+    },
+    {
+      "class": "artboard",
+      "id": "2329A6B1-CB7A-4021-B5CE-D20BD901380A"
+    }
+  ],
+  "name": "logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
