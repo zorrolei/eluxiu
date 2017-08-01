@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "1B152D1E-448A-4F5D-891C-5156FB833C96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11.25,
+    "width": 27.5625,
+    "x": 33.75,
+    "y": 2.25
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "010E1FE0-3638-4D85-8DB0-29B17D952FE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0441638-E1F3-487D-8AB1-00406C694737"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F600798D-3486-4A27-BD5E-029622F3EABE"
+    }
+  ],
+  "name": "Battery Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "31D83354-CCED-40F9-A038-16D5AB596694",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

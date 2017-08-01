@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "2AEBC729-EC78-40EA-A663-623D2923B4B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 188,
+    "width": 280,
+    "x": 40,
+    "y": 226
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EAB02D7B-F5AF-4F24-8CCE-A343A0DEEF70"
+    },
+    {
+      "class": "group",
+      "id": "B9AC4237-972F-431E-BA62-6E82FB07A24A"
+    },
+    {
+      "class": "text",
+      "id": "8B9ED640-A49D-418E-A373-0755406BEAB5"
+    },
+    {
+      "class": "text",
+      "id": "BB62DC23-D732-4440-BF56-9B7D982FD350"
+    }
+  ],
+  "name": "dialog",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

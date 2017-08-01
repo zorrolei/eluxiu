@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "6E8C1A44-3AB4-4E21-AA61-AB187281A167",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22.5,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F12058AA-109F-4609-9A17-03A995D2EE04"
+    },
+    {
+      "class": "group",
+      "id": "269B7F6F-BD4B-4EE2-9E48-B34CAB7CEA9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C4A4870-04CB-43B1-9BC6-4A369BCAB667"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01A303CF-82FB-47C7-BB07-683F4C173534"
+    },
+    {
+      "class": "group",
+      "id": "E3612129-3AF3-4DFF-AA48-39B57FCE399B"
+    },
+    {
+      "class": "text",
+      "id": "B1E92EB4-B1B3-4F75-AC06-839AF21CF75D"
+    },
+    {
+      "class": "text",
+      "id": "DD546AEC-7452-49F9-9AC4-030EBF77FD07"
+    }
+  ],
+  "name": "Status Bar Light ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

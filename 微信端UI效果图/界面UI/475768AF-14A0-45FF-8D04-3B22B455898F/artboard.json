@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "475768AF-14A0-45FF-8D04-3B22B455898F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1066,
+    "width": 360,
+    "x": 2173,
+    "y": 1142
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AD34B159-489C-4F70-BE51-8A0804A55098"
+    },
+    {
+      "class": "group",
+      "id": "F44BA0EE-2ACB-407C-BA9A-ADBBF43FB247"
+    },
+    {
+      "class": "group",
+      "id": "15B6D981-D97D-4B4F-AB4F-3F759363702F"
+    },
+    {
+      "class": "group",
+      "id": "26A2C879-AE7F-4CD2-8899-C9220ABF70D0"
+    },
+    {
+      "class": "group",
+      "id": "FBDCC850-8706-45CE-85F5-0BD55C1241C5"
+    },
+    {
+      "class": "group",
+      "id": "F15E12DB-E521-470C-BA7C-71A957690CB7"
+    },
+    {
+      "class": "group",
+      "id": "2A31EA6B-99B2-4DBC-9D58-ACB6B34D1B74"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "819584F8-B1D4-4FED-9C89-82F832AF292F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C1BA398-819F-48A3-B443-41E581BBF382"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "707827A5-9AA5-4B92-B8E6-219418854A21"
+    },
+    {
+      "class": "group",
+      "id": "56390003-039B-41F6-8137-BD6DC18A8A49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22B71F7C-1BD1-4BF5-98C7-D3E471C382CB"
+    }
+  ],
+  "name": "设备管理员-维修报告单管理-已完成-详情-维修报告",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

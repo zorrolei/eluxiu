@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "4B22338C-26EF-4E0D-8757-C2406A1D51D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 4013,
+    "y": -593
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E86132ED-CB8E-4DBA-9C77-2003B2C34B65"
+    },
+    {
+      "class": "group",
+      "id": "9721F9A1-AF60-49FD-9326-3C4B2DDE8072"
+    },
+    {
+      "class": "group",
+      "id": "80A4ECB7-E9D9-4121-9C73-4D189EE1E394"
+    },
+    {
+      "class": "group",
+      "id": "773EE32B-5C55-4BD6-9624-D178A5F998D9"
+    },
+    {
+      "class": "group",
+      "id": "BA1832B2-0DF4-4621-BEC0-C29CEA43ED06"
+    },
+    {
+      "class": "group",
+      "id": "247D91F2-8E82-4840-80A7-0E98CF811301"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "436F4D89-B414-472D-9E1F-CE5EDE5401DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A693DB18-FDFC-4AEB-8F38-11714A5B8628"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A102D09E-D72C-438F-A4B7-29AB633BC880"
+    },
+    {
+      "class": "group",
+      "id": "421023F3-45BC-493D-BFF2-A22596376787"
+    },
+    {
+      "class": "group",
+      "id": "3217135E-7BE8-4441-9D05-716A6C976AEA"
+    },
+    {
+      "class": "group",
+      "id": "FB6BB6DC-B796-44AC-BA30-3EAA16E14A74"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4388D5C-0322-464C-8DA1-362A91CF1D8B"
+    },
+    {
+      "class": "group",
+      "id": "F57389B0-C39F-4144-AD8D-45833FBF561B"
+    }
+  ],
+  "name": "维修工程师-维修单-未处理-详情-无法维修",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

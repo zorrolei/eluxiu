@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGjI1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIERIYJSYnKCkqLjY3ODk6QUVQU1ZaYGNlcXR8fYCEiFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAHoADgCBjAEWN70/u0hMMFBdaTlMub2JqZWN0c6IVFoAEgBmAHdMZEwwaHyRXTlMua2V5c6QbHB0egAWABoAHgAikICEiI4AJgAqAEoAWgBhaTlNMaWdhdHVyZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQANIMKywtXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xkTDC8yNaIwMYAMgA2iMzSADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFwuU0ZOU0Rpc3BsYXnSOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM9P0BcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00js8QkNfEBBOU0ZvbnREZXNjcmlwdG9yokRAXxAQTlNGb250RGVzY3JpcHRvctZGR0hJDEpLTE1OT01bTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodFtOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodBAEgAAjQDwAAAAAAACAE4AV0hMMUVKggBTSOzxUVVdOU0FycmF5olRA0js8V1hfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNXWUBfEBBOU1BhcmFncmFwaFN0eWxl01tcDF1eX1VOU1JHQlxOU0NvbG9yU3BhY2VGMSAxIDEAEAGAF9I7PGFiV05TQ29sb3KiYUDSOzw/ZKI/QNMZEwxmaySkGxwdHoAFgAaAB4AIpCBtIiOACYAagBKAFoAY0gwrLHOAEYAb0xkTDHV4NaIwMYAMgA2iM3qADoAcgBBfEBMuUGluZ0ZhbmdTQy1SZWd1bGFy0js8fn9eTlNNdXRhYmxlQXJyYXmjflRA0oEMgoNXTlMuZGF0YUQBAAIBgB/SOzyFhl1OU011dGFibGVEYXRho4WHQFZOU0RhdGHSOzyJil8QEk5TQXR0cmlidXRlZFN0cmluZ6KLQF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGOj1Ryb290gAEACAARABoAIwAtADIANwBbAGEAagBzAIUAkgCZAJsAnQCfAKEAqACtALgAuwC9AL8AwQDIANAA1QDXANkA2wDdAOIA5ADmAOgA6gDsAPcBGQEsATQBNgE7AVgBWgFcAWMBZgFoAWoBbQFvAXEBcwGJAZ8BqAG1AboBxQHOAeQB6AH1Af4CAwIWAhkCLAI5AkUCUAJiAm4CgAKCAoQCjQKPApEClgKXApkCngKmAqkCrgLIAswC3wLmAuwC+QMAAwIDBAMJAxEDFAMZAxwDIwMoAyoDLAMuAzADNQM3AzkDOwM9Az8DRANGA0gDTwNSA1QDVgNZA1sDXQNfA3UDegOJA40DkgOaA58DoQOmA7QDuAO/A8QD2QPcA/EEAwQGBAsAAAAAAAACAQAAAAAAAACQAAAAAAAAAAAAAAAAAAAEDQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "17C30DB3-563F-4776-9D07-25BE7844F2DF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 53,
+    "x": 154,
+    "y": 41
+  },
+  "glyphBounds": "{{0, 0}, {51, 24}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "E路修",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "63446B2F-1571-456D-89FD-2A26EA213F12"
+  },
+  "textBehaviour": 0
+}

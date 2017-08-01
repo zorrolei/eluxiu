@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "5095FB1D-9116-414F-B62C-CF79D1268262",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49.5,
+    "width": 72,
+    "x": 0,
+    "y": 22.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF09C76D-FB70-48B1-AC01-C25DF014F1AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C9FE1FF-5520-4D38-B9CC-B74B733CBFF3"
+    },
+    {
+      "class": "text",
+      "id": "0591CDC6-F457-4FDD-B47B-08CCA318CB91"
+    }
+  ],
+  "name": "< 微信 (Back)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

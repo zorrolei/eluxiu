@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "02ED3149-EC59-47F3-B8F0-2C3AC835282E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55.6875,
+    "width": 48.9375,
+    "x": 0,
+    "y": 0.5625
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "83E5C2CA-528A-41F6-8300-EE41FA4CF5C6"
+    },
+    {
+      "class": "group",
+      "id": "207C7ABF-955E-41D8-915B-75A3D64AC55A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6629323D-2DF7-4C66-BF2D-9465FEBA1720"
+    }
+  ],
+  "name": "Keyboard Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

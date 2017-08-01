@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7FE85AE1-D482-443D-AC27-BD5AAA774429",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 103,
+    "x": 46.5,
+    "y": 0.5625
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D151FB5A-C9BE-4468-AB00-A7EFEACB8CF0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADC70902-4A94-4E36-8BD1-FDC7E3D8C082"
+    },
+    {
+      "class": "text",
+      "id": "A5D6D684-D279-4F6F-9719-D05988D5D468"
+    }
+  ],
+  "name": "Bottom Menu Button 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

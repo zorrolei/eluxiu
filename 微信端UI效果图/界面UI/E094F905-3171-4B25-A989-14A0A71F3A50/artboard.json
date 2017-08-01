@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "E094F905-3171-4B25-A989-14A0A71F3A50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": -1047,
+    "y": -593
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA27FD6B-B0F9-4B9F-BC81-8ED967DAFE8F"
+    },
+    {
+      "class": "group",
+      "id": "AEAA3967-0F48-420E-9928-540467841073"
+    },
+    {
+      "class": "group",
+      "id": "1C0519AE-B38F-4484-8E37-5D3172F658FB"
+    },
+    {
+      "class": "group",
+      "id": "40DFA54E-2E12-4FB5-9B58-16C1292F2D24"
+    },
+    {
+      "class": "group",
+      "id": "7A219AED-4E05-4831-8F22-E6DB2AF4D6AC"
+    },
+    {
+      "class": "group",
+      "id": "8D500D96-7D94-40AD-932A-3EF72BA34893"
+    },
+    {
+      "class": "group",
+      "id": "34EE3841-F7CD-4C72-B6C1-93EFCB6A5FE3"
+    },
+    {
+      "class": "text",
+      "id": "352A4444-196C-431B-BAEC-4BDEA1FED744"
+    },
+    {
+      "class": "text",
+      "id": "A77DBF07-C03E-4F43-BF03-DE823F6F7FF2"
+    }
+  ],
+  "name": "注册界面",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
