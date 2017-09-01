@@ -26,7 +26,7 @@
     "y": 1142
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -88,6 +88,10 @@
     {
       "class": "shapeGroup",
       "id": "A142756D-8190-4CEB-831C-2089D87A0041"
+    },
+    {
+      "class": "group",
+      "id": "4A41A308-7B92-4F73-B27C-93822CD47A05"
     },
     {
       "class": "group",

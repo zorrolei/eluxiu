@@ -23,5 +23,10 @@
     "_class": "symbolContainer",
     "objects": [
     ]
-  }
+  },
+  "pages": [
+    "界面Ui",
+    "图标",
+    "Symbols"
+  ]
 }

@@ -23,5 +23,9 @@
     "_class": "symbolContainer",
     "objects": [
     ]
-  }
+  },
+  "pages": [
+    "logo",
+    "Symbols"
+  ]
 }
