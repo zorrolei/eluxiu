@@ -14,7 +14,7 @@
     "images": [
     ]
   },
-  "do_objectID": "665a1920-7688-11e7-bd8f-d7000e7db8ff",
+  "do_objectID": "ec98b4b0-7688-11e7-bd8f-d7000e7db8ff",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [
@@ -23,5 +23,9 @@
     "_class": "symbolContainer",
     "objects": [
     ]
-  }
+  },
+  "pages": [
+    "界面UI",
+    "Symbols"
+  ]
 }
