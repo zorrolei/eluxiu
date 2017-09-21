@@ -39,7 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 1,
+=======
+  "layerListExpandedType": 2,
+>>>>>>> 474a5182168966003d0fd49261558fb12622f10e
   "layers": [
     {
       "class": "group",

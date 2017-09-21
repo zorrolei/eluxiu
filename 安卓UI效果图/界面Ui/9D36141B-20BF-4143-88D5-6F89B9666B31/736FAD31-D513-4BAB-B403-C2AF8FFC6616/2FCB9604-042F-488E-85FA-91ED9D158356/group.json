@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "2FCB9604-042F-488E-85FA-91ED9D158356",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 661,
+    "width": 398,
+    "x": 23,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D49815A3-5DF6-407A-91DB-D6C4373E9256"
+    },
+    {
+      "class": "group",
+      "id": "3B2F54C6-6297-44D5-A711-D4AC06BD6379"
+    },
+    {
+      "class": "group",
+      "id": "5ECC56AC-FB31-448A-9EA7-1322C21A37CB"
+    },
+    {
+      "class": "group",
+      "id": "BE460BAB-58F1-4B15-A44C-F13A9C63AF3A"
+    },
+    {
+      "class": "group",
+      "id": "B6AD38D7-6E3A-48F9-A752-128E6482FD3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09CE4364-C602-4ABD-B3BE-0EDC0C47DB92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32528448-B7CA-4A40-9D55-2212C00C2553"
+    },
+    {
+      "class": "group",
+      "id": "0788D863-AE16-4242-B704-6AD005B3DA48"
+    },
+    {
+      "class": "group",
+      "id": "682D94F1-3A9F-4B52-B1D8-852A5053F7E7"
+    }
+  ],
+  "name": "DNA背景",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
