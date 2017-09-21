@@ -25,12 +25,7 @@
     ]
   },
   "pages": [
-<<<<<<< HEAD
     "Symbols",
     "logo"
-=======
-    "logo",
-    "Symbols"
->>>>>>> a348eb2671fc94eb0f07f2bcbb49b64597c2fb7a
   ]
 }
