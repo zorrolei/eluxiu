@@ -31,7 +31,12 @@
     "version": 92
   },
   "pages": [
+<<<<<<< HEAD
+    "Symbols",
+    "logo"
+=======
     "logo",
     "Symbols"
+>>>>>>> 474a5182168966003d0fd49261558fb12622f10e
   ]
 }
