@@ -93,6 +93,9 @@
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "0B0DE733-8C25-4835-B45C-0195CD5FDB24"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

@@ -24,17 +24,16 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "返回按钮",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 57,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

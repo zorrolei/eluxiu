@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -108,7 +118,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -136,6 +146,9 @@
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "5AE8AA6B-08F4-4318-AA0B-9F9BBF9DC67E"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

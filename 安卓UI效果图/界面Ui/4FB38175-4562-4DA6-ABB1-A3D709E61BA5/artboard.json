@@ -14,10 +14,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "pdf",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -35,7 +35,7 @@
     "y": -227
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,9 +46,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -77,11 +78,18 @@
   ],
   "name": "登录页",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -105,6 +113,11 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

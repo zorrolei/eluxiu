@@ -15,45 +15,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "mdpi/",
-        "namingScheme": 1,
-        "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "hdpi/",
-        "namingScheme": 1,
-        "scale": 1.5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xhdpi/",
-        "namingScheme": 1,
+        "name": "",
+        "namingScheme": 0,
         "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxhdpi/",
-        "namingScheme": 1,
-        "scale": 3,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxxhdpi/",
-        "namingScheme": 1,
-        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -82,9 +46,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -105,11 +70,18 @@
   ],
   "name": "启动页",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

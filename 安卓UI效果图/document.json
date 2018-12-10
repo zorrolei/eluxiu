@@ -14,9 +14,8 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "665a1920-7688-11e7-bd8f-d7000e7db8ff",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -25,14 +24,18 @@
     ]
   },
   "meta": {
-    "appVersion": "46.2.0",
-    "build": 43514,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
-    "version": 92
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "界面Ui",
     "图标",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }

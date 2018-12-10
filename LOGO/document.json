@@ -14,6 +14,7 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "520f9700-7689-11e7-bd8f-d7000e7db8ff",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
@@ -25,18 +26,18 @@
     ]
   },
   "meta": {
-    "appVersion": "46.2.0",
-    "build": 43514,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
-    "version": 92
+    "appVersion": "47.1",
+    "build": 45422,
+    "commit": "d5cff89adfb6ffc45ca7b7d58d65cada3f63f39a",
+    "version": 95
   },
   "pages": [
-<<<<<<< HEAD
-    "Symbols",
-    "logo"
-=======
     "logo",
     "Symbols"
->>>>>>> 474a5182168966003d0fd49261558fb12622f10e
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
