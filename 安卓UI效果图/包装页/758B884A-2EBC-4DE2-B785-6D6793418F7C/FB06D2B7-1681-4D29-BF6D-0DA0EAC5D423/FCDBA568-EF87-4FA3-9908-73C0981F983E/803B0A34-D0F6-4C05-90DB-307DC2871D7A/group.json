@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "803B0A34-D0F6-4C05-90DB-307DC2871D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F5242AA-7506-48FE-B775-6A9A599BB545",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15AB4500-4C7D-415E-9DC9-B0C209C3604B",
+    "height": 65,
+    "width": 4,
+    "x": 428,
+    "y": 186
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1239E4F6-06A9-4C73-A1A0-BCD4A1152B55"
+    },
+    {
+      "class": "shapePath",
+      "id": "B09D81E3-0D62-4918-9223-6E7DF922D32F"
+    },
+    {
+      "class": "rectangle",
+      "id": "436FED7C-F8A6-4D52-8175-5195412D9FD6"
+    }
+  ],
+  "name": "Side Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B808F4F3-AAB5-462F-A845-2A801550DE92",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -4,7 +4,7 @@
   "name": "Material/Light/Menu",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -66,7 +66,7 @@
         "spread": 0
       }
     ],
-    "sharedObjectID": "E9914C62-FB70-43EA-B840-F1BE2DEEA401",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

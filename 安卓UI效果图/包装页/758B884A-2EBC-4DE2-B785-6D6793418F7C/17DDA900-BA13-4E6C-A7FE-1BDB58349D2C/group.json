@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "17DDA900-BA13-4E6C-A7FE-1BDB58349D2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54C02690-E816-4959-B9F7-9D06B6713C3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DAA4413D-8ABE-4EDA-AB48-4574C7897752",
+    "height": 128,
+    "width": 132,
+    "x": 203,
+    "y": 2775
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "C5132C89-2E7A-48FA-A1F3-A5482CE73620"
+    },
+    {
+      "class": "shapePath",
+      "id": "5E3E73B7-ABA7-4298-A7AA-3ADF4EA5A438"
+    },
+    {
+      "class": "shapePath",
+      "id": "52E034DD-4283-45B5-8E63-AC6FB80565BE"
+    },
+    {
+      "class": "oval",
+      "id": "A5823D49-5CFF-4321-9C2E-5629CE3FA5B6"
+    },
+    {
+      "class": "oval",
+      "id": "D750B2DF-85DD-45C8-BBF4-0DAC767AC903"
+    },
+    {
+      "class": "oval",
+      "id": "784C0AF3-F404-4955-8D3D-37FFDA4EC611"
+    },
+    {
+      "class": "shapePath",
+      "id": "1771FC77-42FD-4973-89FC-CE6F9237E1F7"
+    }
+  ],
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6DDBE1D5-7AE3-4221-8B96-71928EC4E519",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "0D26BFE4-6AC5-4E70-90D3-C5C0C9D9965B",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "102A5DBE-421E-41E4-9FA6-E80BEE218814",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

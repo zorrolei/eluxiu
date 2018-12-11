@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D36354C-09AF-4433-8368-A05A24E5C6CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1E9DEDE-39E0-41E1-8E80-0CFF12F3BA27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90FABFED-D38F-4E02-A5F9-416781EEF635",
+    "height": 141.9008498583569,
+    "width": 154,
+    "x": 79.5,
+    "y": 0.5014164305948725
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C1058EBE-884A-4343-9ADD-F179AEA3E419"
+    }
+  ],
+  "name": "Golden Ratio - Element",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E3E82791-AB9F-4F38-9B83-DBF5E8ADABEA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6DB088F5-CC27-40D2-BE36-C189182E1DB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

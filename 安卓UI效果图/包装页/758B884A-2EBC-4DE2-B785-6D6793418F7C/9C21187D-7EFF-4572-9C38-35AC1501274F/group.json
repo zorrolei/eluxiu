@@ -1,0 +1,112 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C21187D-7EFF-4572-9C38-35AC1501274F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BF003B1-E768-48E8-A1D1-B2754D9F40F7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EDEE673-649D-441F-8320-A05E32F6541E",
+    "height": 712,
+    "width": 1669,
+    "x": -235,
+    "y": 3832
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F6AF4D9A-1805-4516-A068-BE80E95A4CFA"
+    },
+    {
+      "class": "rectangle",
+      "id": "6A012EC0-AFC0-4B83-BD64-6FFE1A9EB3F2"
+    },
+    {
+      "class": "rectangle",
+      "id": "1FB4BC79-33C0-408D-B6BD-7FCC4810C37B"
+    },
+    {
+      "class": "rectangle",
+      "id": "6D998B8F-8778-461D-BE4A-E033FCDF75BB"
+    },
+    {
+      "class": "rectangle",
+      "id": "4623F906-BCE2-4C25-8859-84C75DFDF558"
+    },
+    {
+      "class": "rectangle",
+      "id": "FB643EAD-2523-4B6F-98C6-3DEB06D85552"
+    },
+    {
+      "class": "rectangle",
+      "id": "7FE55B06-CE05-4369-B528-18E3E3C67CCE"
+    },
+    {
+      "class": "rectangle",
+      "id": "BC7101CF-5F6E-47C2-8CBE-77BCC6CFF8A1"
+    },
+    {
+      "class": "rectangle",
+      "id": "E607041B-3569-4850-9626-FC8EFEEC0261"
+    },
+    {
+      "class": "rectangle",
+      "id": "0D4BCCEC-A714-49B4-B763-F4DB3BD98616"
+    },
+    {
+      "class": "rectangle",
+      "id": "04024752-3463-4ADB-9509-B0CEEE1B2CF5"
+    }
+  ],
+  "name": "Mockup 05",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B0638437-5220-40D2-AD7F-7EA56B22325C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.699999999999999,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3328AE83-B52B-470F-B11E-A4C19BD1F9A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

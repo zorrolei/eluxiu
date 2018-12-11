@@ -1,12 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGgcIERIYHyAkLC0uLzA3Oz1DREdPUFFSVlpeVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAXgAOAGW8QFgAyADAAMQA3XnROPlKekc1ehl4CUzteCFNPTxpowJqMUzteCFIGTxpedE8a0hMMFBdaTlMub2JqZWN0c6IVFoAEgA+AFtMZEwwaHB5XTlMua2V5c6EbgAWhHYAGgA5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0gwhIiNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ANgAfTGRMMJSgroiYngAiACaIpKoAKgAuADF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AoAAAAAAAAWUhlbHZldGljYdIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozM1NlxOU0RpY3Rpb25hcnlYTlNPYmplY3TSMTI4OV8QEE5TRm9udERlc2NyaXB0b3KiOjZfEBBOU0ZvbnREZXNjcmlwdG9y0jEyNTyiNTbTGRMMPkAeoT+AEKFBgBGADl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXSDCEiRoANgBLTGRMMSEsroklKgBOAFKIpTYAKgBWADF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlXxASUGluZ0ZhbmdTQy1SZWd1bGFy0jEyU1ReTlNNdXRhYmxlQXJyYXmjU1U2V05TQXJyYXnSVwxYWVdOUy5kYXRhRAQAEgGAGNIxMltcXU5TTXV0YWJsZURhdGGjW102Vk5TRGF0YdIxMl9gXxASTlNBdHRyaWJ1dGVkU3RyaW5nomE2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WRlVHJvb3SAAQAIABEAGgAjAC0AMgA3AFQAWgBjAGwAfgCLAJIAlACWAJgAmgDJAM4A2QDcAN4A4ADiAOkA8QDzAPUA9wD5APsBHQEiAT8BQQFDAUoBTQFPAVEBVAFWAVgBWgFwAYYBjwGZAZ4BqQGyAcgBzAHZAeIB5wH6Af0CEAIVAhgCHwIhAiMCJQInAikCSwJQAlICVAJbAl4CYAJiAmUCZwJpAmsCgQKXAqwCsQLAAsQCzALRAtkC3gLgAuUC8wL3Av4DAwMYAxsDMANCA0UDSgAAAAAAAAIBAAAAAAAAAGYAAAAAAAAAAAAAAAAAAANM"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 12
+            }
+          }
+        },
+        "length": 4,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 12
+            }
+          }
+        },
+        "length": 18,
+        "location": 4
+      }
+    ],
+    "string": "2017年举办重庆市医师协会检验医师分会年会"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "9609F581-7845-4811-8E75-0A2A6F2C7751",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +57,8 @@
     "y": 16
   },
   "glyphBounds": "{{0, 0}, {243, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -41,18 +73,23 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFlIZWx2ZXRpY2HSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA3QDiAO0A9gEMARABHQEmASsBPgFBAVQBZgFpAW4AAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcA=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Helvetica",
+            "size": 12
+          }
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -16,7 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "665a1920-7688-11e7-bd8f-d7000e7db8ff",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -24,12 +28,13 @@
     ]
   },
   "meta": {
-    "appVersion": "49",
-    "build": 51002,
-    "version": 101
+    "appVersion": "52.5",
+    "build": 67469,
+    "version": 112
   },
   "pages": [
     "界面Ui",
+    "包装页",
     "图标",
     "Symbols"
   ],

@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "17A7B61D-0E8D-4611-A81F-953C8D2FBB62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7556649E-0535-40E2-909C-3746CDF819C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12525EF5-78A2-4076-9DBE-DC706E514D12",
+    "height": 603.5714285714286,
+    "width": 645.2380952380952,
+    "x": 77.38095238095238,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E2CB79F1-9B1B-40CB-AD20-22FEF5396D6C"
+    },
+    {
+      "class": "rectangle",
+      "id": "99966DA9-415B-4BB1-B848-FD28FE784EC7"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BBEB1D3-DC89-4A9E-8AB2-B42C69EB4410"
+    },
+    {
+      "class": "rectangle",
+      "id": "B312EDA0-EFE5-4507-B755-C07BE8607134"
+    },
+    {
+      "class": "rectangle",
+      "id": "B0171EFC-2537-4A09-877E-CADE934864E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C3E6411-03B7-4674-9B67-233702D39342"
+    },
+    {
+      "class": "rectangle",
+      "id": "135FFE3C-96E2-48DB-B90B-FF936F8CA08F"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "27026327-D720-442A-B0C4-08B90CF91651",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.90476190476191,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "28D605AE-A921-49DC-B526-FA1D1AFFA302",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

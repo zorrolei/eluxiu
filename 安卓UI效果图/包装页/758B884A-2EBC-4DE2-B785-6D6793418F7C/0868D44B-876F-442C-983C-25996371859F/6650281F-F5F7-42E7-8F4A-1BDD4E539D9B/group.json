@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6650281F-F5F7-42E7-8F4A-1BDD4E539D9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90F5A53E-E73B-4080-A894-4DFA68EE4189",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "24E7A51D-DC3D-4E47-9A50-F90E3B01CAAC",
+    "height": 52,
+    "width": 52,
+    "x": 118.1876606683804,
+    "y": 4.56041131105394
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B7EFCBA1-DB63-4B33-8877-19E80A580D86"
+    }
+  ],
+  "name": "banshou",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1577520-BA70-4570-869B-E35E31E8629A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

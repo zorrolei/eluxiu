@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "522AC58D-D729-47F6-8DFA-32E96947F12C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67E63CDB-24DC-4CF4-90E1-62E7938C2A85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E465F5F-12B0-4BF2-9F9D-1F20AF70740D",
+    "height": 12,
+    "width": 9,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D66EF4C2-1C3E-4748-AFB0-7B22C388542F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F44EF4C5-0833-4DE0-BB50-E050D13E324E"
+    },
+    {
+      "class": "shapePath",
+      "id": "070107BB-9748-4E1E-9643-779A2F08B3B1"
+    }
+  ],
+  "name": "Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "ED3189EC-7129-4A02-B51E-BE88C81BE026",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "39EA8011-AA8A-4DC6-B241-6C4414DFB13A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

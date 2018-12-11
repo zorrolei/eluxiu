@@ -7,6 +7,8 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2E270BA3-233A-4565-A364-F37B294885F3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -35,7 +37,8 @@
     "y": -227
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,15 +47,16 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "4BE1CB5A-FFE6-4179-8B69-9CFB8AAE448B"
     },
     {
@@ -60,7 +64,7 @@
       "id": "F2911985-3F05-423E-B9EF-E3D7FA2C30F7"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "24AA7E68-5D9E-435A-BB77-1A7BEF0ECDC5"
     },
     {
@@ -72,15 +76,15 @@
       "id": "65ADD24B-EEB0-48EE-9005-6189946A3B4D"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "7F2E4213-A6EC-4F31-9110-7CE64DF61407"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "686D0038-A8B7-4130-AE7B-3BFA9B0E9C9D"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "805A0BBC-FF2A-4014-836B-99904F3632EB"
     },
     {
@@ -113,7 +117,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -133,7 +137,17 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "33C92971-957D-4993-8A8E-A211ACF1AF2C"
+      ]
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

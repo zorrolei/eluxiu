@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4273E885-889F-4BA9-8DE7-8CBC29C6012A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1ECFCE47-362A-42B9-B44F-D62B10D46CD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0FF949E-2F2F-4372-8581-A645CB84B41A",
+    "height": 59.86375321336766,
+    "width": 59.86375321336777,
+    "x": 255.1362467866323,
+    "y": 0.4601542416452276
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "399174CC-5879-44BB-9CDD-B460B87ECEF5"
+    }
+  ],
+  "name": "医院 (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6F9BAE2-BAE8-4811-A020-9ECCD3F36752",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

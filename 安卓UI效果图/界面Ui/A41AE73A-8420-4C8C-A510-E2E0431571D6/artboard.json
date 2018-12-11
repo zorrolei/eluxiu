@@ -7,6 +7,8 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A41AE73A-8420-4C8C-A510-E2E0431571D6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,6 +48,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -85,19 +89,19 @@
       "id": "13D2E063-C66D-4D89-996B-F59A0898CBB0"
     },
     {
-      "class": "shapeGroup",
+      "class": "star",
       "id": "00FAF87C-E0BA-41BC-AAC7-525C126F48B2"
     },
     {
-      "class": "shapeGroup",
+      "class": "star",
       "id": "DF4E9993-F37D-43CF-A333-C916B1AD7353"
     },
     {
-      "class": "shapeGroup",
+      "class": "star",
       "id": "E19FD724-9BAF-4F7F-9D2B-A7122D411458"
     },
     {
-      "class": "shapeGroup",
+      "class": "star",
       "id": "1948C8DA-47D3-4F3D-B457-A79EBFBF3A41"
     },
     {
@@ -105,7 +109,7 @@
       "id": "03B5EEA6-CB8F-442C-980E-43E7980D5D30"
     },
     {
-      "class": "shapeGroup",
+      "class": "star",
       "id": "321D66EB-6CBD-4C4B-9C75-9DB23F22133C"
     }
   ],
@@ -118,7 +122,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -138,7 +142,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B79DB3D0-8E3B-47D9-BB7D-602E7B5819CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3A13EBD-9E0C-41B9-A54B-FD13ECA32870",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4305131A-2D11-49A2-9DFE-E069378BB7E7",
+    "height": 66,
+    "width": 4,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "20FDC77A-3075-4568-B7F6-4A9D82A9B822"
+    },
+    {
+      "class": "shapePath",
+      "id": "317E3523-38BE-4341-88DC-FBB79DDF2EB2"
+    },
+    {
+      "class": "shapePath",
+      "id": "9C53BB0C-CCDF-4CCC-AB1A-046465A62A50"
+    }
+  ],
+  "name": "Up",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C0A3AC9-238E-48AE-9B22-BA286AE14499",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9643EA38-4375-46AE-B994-641D0EEDB487",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "250F47E7-FC8D-4040-ACEB-3B18FC1220A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C36A9959-A8DA-4296-8463-C520C6BD618E",
+    "height": 525,
+    "width": 1015,
+    "x": 10,
+    "y": 86.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CABFDA6D-A218-438F-B758-67D60FBC6ED1"
+    },
+    {
+      "class": "group",
+      "id": "3EC58123-E4BE-4E61-BE7A-F50691AC19DC"
+    }
+  ],
+  "name": "iPhone 8/03/Left/Clay White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4BED8D2A-43DC-4D75-8626-983FFF78C921",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "72AE8970-92B9-40B6-A04C-6271666E3164",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3BAA01B-E88F-46BF-9D8D-855750C94BCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F61ECE9-ECF6-4E2D-B83D-51DA4A2ED7FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "387D6059-E79B-483E-BE93-BA10016832B3",
+    "height": 43.21728691476591,
+    "width": 43.21728691476589,
+    "x": 218.0508567063191,
+    "y": 123.6460001868179
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4B8B774C-4A29-43F8-B058-7526514D660D"
+    }
+  ],
+  "name": "医院 copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4E914609-5656-4C24-8D51-7E55F709F76B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.90476190476191,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "CEEC3FC3-9939-46C1-94BC-F5D5977D8D4C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
